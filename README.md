@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Registro de Usuarios con Vue
+Pequeño proyecto frontend desarrollado con Vue.js.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Características
+- Formulario de registro de usuarios
+- Validación básica de campos
+- Uso de v-model para manejo de datos
+- Renderizado dinámico con v-for
+- Diseño responsive con Flexbox
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Tecnologías utilizadas
+- Vue.js
+- JavaScript
+- HTML5 semántico
+- CSS3
+
+## Objetivo del proyecto
+Practicar el desarrollo de interfaces interactivas utilizando Vue.js y aplicar buenas prácticas de frontend.
